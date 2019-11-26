@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 1 AFTU.kmz</name>
+	<Style id="s_ylw-pushpin_hl22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="061A37A11E0FDD87D797">
+		<name>Ligne 1 AFTU</name>
+		<open>1</open>
+		<description>Exploitant: GIE NAYOOBE</description>
+		<Placemark id="06C9CC4EEC0FDD87D79A">
+			<name>Ligne 1 AFTU</name>
+			<styleUrl>#msn_ylw-pushpin90</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-17.44136771082108,14.6692647562246,0 -17.44171364192885,14.66911526372755,0 -17.44184077938012,14.66954959935068,0 -17.44136495683783,14.67030515027536,0 -17.44222119638901,14.67125071551906,0 -17.44108838007136,14.67221951981298,0 -17.44108071740892,14.67230954257232,0 -17.44172764243735,14.67282249508747,0 -17.4421666961876,14.67339284452992,0 -17.44256026623859,14.6741134264966,0 -17.44297782810156,14.67472857607243,0 -17.44355436081557,14.67526225726166,0 -17.44474171428089,14.67636716952977,0 -17.44567422787695,14.67727197001173,0 -17.44652170180429,14.67805038358794,0 -17.44803672792061,14.6795173210141,0 -17.44994717178304,14.68131814402712,0 -17.45149007648996,14.6827064242227,0 -17.45343671782234,14.68453105414467,0 -17.45317451387072,14.68505445175691,0 -17.4512704311617,14.68855245813573,0 -17.44952102318279,14.69177968176046,0 -17.45067984396378,14.69231214957637,0 -17.45182261517623,14.69279985791988,0 -17.45239599547667,14.69303367632073,0 -17.45368248591038,14.69359487336632,0 -17.45409571124121,14.69381317993636,0 -17.45450617334842,14.69430714541006,0 -17.45556554865705,14.69575020661994,0 -17.45553015277119,14.69575892433534,0 -17.45555470319901,14.6957352468675,0 -17.45619945366778,14.6963291963276,0 -17.45622435719591,14.69635304849608,0 -17.45680035003408,14.69699985731803,0 -17.45677525486635,14.69697580666619,0 -17.45675124079066,14.69704801071974,0 -17.45677552711213,14.69699986462486,0 -17.45677579952863,14.69702393033063,0 -17.45697653840224,14.69719253605465,0 -17.45796734655279,14.6983103533909,0 -17.45796787154789,14.69833490645643,0 -17.45917720975587,14.69970318858703,0 -17.46110281160841,14.70200323521497,0 -17.46292807283547,14.70394010972225,0 -17.46092054552986,14.70627348205388,0 -17.45821105788546,14.70929466062021,0 -17.45724675954579,14.71038693205106,0 -17.45670618941724,14.71098318241477,0 -17.45561071952479,14.71222459745101,0 -17.45488336063557,14.71301438460286,0 -17.4546533770052,14.71298217464273,0 -17.45444799249674,14.71311872398145,0 -17.45447160510653,14.71334703168768,0 -17.45466941323666,14.71363114262846,0 -17.45486577167453,14.71423909744415,0 -17.4552469059246,14.71534539621159,0 -17.45557047406574,14.71625116950243,0 -17.4560474952097,14.71772176399249,0 -17.45654048035372,14.71913750400837,0 -17.45683330036635,14.72001796667152,0 -17.45727120435343,14.72133138564296,0 -17.4575922881268,14.72223100392873,0 -17.45774327241651,14.72269892090365,0 -17.45784514821879,14.72312959504905,0 -17.45725593202063,14.723184874258,0 -17.4571538330662,14.72379635056102,0 -17.45700607834092,14.72477068529387,0 -17.45684763343267,14.72596936441275,0 -17.45646567017026,14.7284437426541,0 -17.45650354088112,14.72853234504203,0 -17.45696244280175,14.72869352397011,0 -17.45723833593846,14.72888920887946,0 -17.45768655409757,14.72946875702686,0 -17.45856732875899,14.73058068044183,0 -17.46045530612934,14.73299536090307,0 -17.46142021679681,14.7342138337597,0 -17.4618461772921,14.73477020275352,0 -17.46269034460618,14.73567770012261,0 -17.46417047944528,14.73721721180266,0 -17.46339051161761,14.73794772941473,0 -17.46225126687549,14.73932462218552,0 -17.46137912629072,14.74034035990284,0 -17.45868953654557,14.74358475955234,0 -17.4574931217933,14.7449144759772,0 -17.45703813162625,14.74486503756786,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder id="0C0BF71B000FDD87D79B">
+			<name>TerminusL1</name>
+			<Placemark>
+				<name>Terminus  Lat-Dior</name>
+				<LookAt>
+					<longitude>-17.43771359607171</longitude>
+					<latitude>14.66841190572198</latitude>
+					<altitude>0</altitude>
+					<heading>-0.09122171205852142</heading>
+					<tilt>13.91160915148612</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>1144.449933946411</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin03</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-17.44136222506478,14.66926322901347,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Terminus Scat Urbam</name>
+				<LookAt>
+					<longitude>-17.45262559628506</longitude>
+					<latitude>14.70701533129248</latitude>
+					<altitude>0</altitude>
+					<heading>2.615700097115651e-09</heading>
+					<tilt>44.99973750792496</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>13610.92701254288</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin22</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-17.45693994703697,14.74534077093999,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

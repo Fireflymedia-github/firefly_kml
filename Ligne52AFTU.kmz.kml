@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 52 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_027B1390930FDDB12E56">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_164E781A480FDDB12E55">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0676B1323D0FDDB12E55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_164E781A480FDDB12E55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_027B1390930FDDB12E56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_07C9ABBF580FDDB04FE4">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04EA6682A50FDDB04FE3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16D299EEE70FDDB04FE3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07C9ABBF580FDDB04FE4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin38">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin43">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl03">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl03</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_16D299EEE70FDDB04FE3">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="08167BAA910FDDAFEAE5">
+		<name>Ligne 52 AFTU</name>
+		<open>1</open>
+		<description>Exploitant: SOPALI TRANSPORT</description>
+		<Placemark id="0F6DD05F7D0FDDAFEAE7">
+			<name>Ligne 52 AFTU</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-17.31697957380752,14.77340973774635,0 -17.31702171988983,14.77340092488829,0 -17.31728596255071,14.77374029615157,0 -17.31786233569111,14.77440640626603,0 -17.31880642004565,14.77553998370066,0 -17.31966728043471,14.77657959710232,0 -17.32069876029887,14.77786213277407,0 -17.32169286273569,14.77915585138196,0 -17.32209263951759,14.77988489041746,0 -17.32247589429975,14.78080938930374,0 -17.32287448662954,14.78176828604857,0 -17.32380146320149,14.78404721776746,0 -17.32474429697766,14.78635559800399,0 -17.32564089012089,14.78854186176851,0 -17.32585283358662,14.78899410431538,0 -17.32640033885876,14.78990996433634,0 -17.32700713665837,14.79066071783252,0 -17.32770479625729,14.79137965953432,0 -17.32862154006713,14.79214928205208,0 -17.32929868272103,14.79259474720161,0 -17.33007675922494,14.79302896151331,0 -17.33095807837898,14.79338598960958,0 -17.33192323811279,14.79365044231155,0 -17.33287919470958,14.79384455107087,0 -17.33379159776913,14.79394208817352,0 -17.33465998815615,14.79391621044137,0 -17.33561947831299,14.79380169648587,0 -17.3365773838669,14.79359245305863,0 -17.33754960608729,14.7932955499406,0 -17.33813975198903,14.79305818435343,0 -17.33879513417772,14.79273008345279,0 -17.33961638563762,14.79220169275998,0 -17.34022579258348,14.79174483115864,0 -17.34101109171665,14.79114540740277,0 -17.34160678949725,14.79069888724874,0 -17.34278208659245,14.78981698267209,0 -17.34357964210603,14.78919566100153,0 -17.3444843839457,14.78853122385804,0 -17.345832067421,14.78766916616953,0 -17.34704086204562,14.78698284722152,0 -17.34864249455785,14.78601148745472,0 -17.35027129649702,14.78504799318668,0 -17.35175671174083,14.78407909918313,0 -17.3529499492201,14.78302285094024,0 -17.35392459806655,14.78217588993268,0 -17.35494646806336,14.78126891283791,0 -17.35632957798571,14.78001069073624,0 -17.35734025653808,14.77901073083006,0 -17.3580413091856,14.77812489275621,0 -17.35905677779425,14.77648396760682,0 -17.35993417360685,14.77504316748438,0 -17.36084059117934,14.77356363060441,0 -17.3613954597135,14.77268013717968,0 -17.36199954596347,14.77213436133129,0 -17.36353589778096,14.77069492694544,0 -17.36471464509732,14.76963022953329,0 -17.36589393202812,14.76854342433617,0 -17.3671630589543,14.76735494958009,0 -17.3686165134775,14.76602544184392,0 -17.36992800882917,14.76477838831872,0 -17.37064476947347,14.7641153976862,0 -17.37234193186025,14.76458972199404,0 -17.37335682779922,14.76409756106641,0 -17.3752848000944,14.76311361280586,0 -17.37650923016026,14.76245177153034,0 -17.37844916806554,14.7614358308246,0 -17.38046535427162,14.76040029621846,0 -17.38199020377646,14.75960304009779,0 -17.382763324995,14.75999081794772,0 -17.38407625627935,14.76066077489829,0 -17.38575719127401,14.76164689991546,0 -17.38598828386196,14.76137055596009,0 -17.3867894385577,14.76028260988754,0 -17.38751005904452,14.75932462714553,0 -17.38834069761983,14.7582145422706,0 -17.38942815747007,14.75675109656528,0 -17.39044299327084,14.75538421738609,0 -17.39157515870083,14.7538932749744,0 -17.39241627957379,14.75278396497251,0 -17.39350018216096,14.75133786621632,0 -17.39448823468419,14.7500595316698,0 -17.39517780955498,14.74907093231438,0 -17.39563531235641,14.74879784963497,0 -17.39609486673885,14.74826170808479,0 -17.39632417164482,14.74801259230456,0 -17.39711433565081,14.74778250753276,0 -17.39814376867192,14.74764286990372,0 -17.39921086874209,14.74767565965928,0 -17.4001161061809,14.74656743150603,0 -17.40103641082364,14.74536684317864,0 -17.4018670108584,14.74428171474494,0 -17.40276315845861,14.74306815769556,0 -17.40333231120267,14.74230014636952,0 -17.40369741174898,14.7415736230578,0 -17.40360289638041,14.74135898955971,0 -17.40358386969655,14.74111495855759,0 -17.40312695316444,14.74112786677826,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder id="054265820B0FDDAFEAE9">
+			<name>Terminus52</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_04EA6682A50FDDB04FE3</styleUrl>
+			<Placemark id="07AED9BD3C0FDDB00E72">
+				<name>Terminus Station Keur Massar</name>
+				<LookAt>
+					<longitude>-17.3169075514863</longitude>
+					<latitude>14.77370766389355</latitude>
+					<altitude>0</altitude>
+					<heading>-0.8123245162596333</heading>
+					<tilt>26.12669689176994</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>235.4866355913912</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-17.31697964302266,14.77341189232507,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark id="0C8341ECB60FDDB12E44">
+		<name>Terminus Bountou Pikine</name>
+		<LookAt>
+			<longitude>-17.39689582204314</longitude>
+			<latitude>14.743748217216</latitude>
+			<altitude>7.220962705668102</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7713.73276366736</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0676B1323D0FDDB12E55</styleUrl>
+		<Point>
+			<coordinates>-17.40308875354004,14.74099538526584,7.059380829862492</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

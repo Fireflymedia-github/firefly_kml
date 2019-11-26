@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 29 AFTU.kmz</name>
+	<Style id="s_ylw-pushpin011">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin46">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="021F913AAC0FDD9265FC">
+		<name>Ligne 29 AFTU</name>
+		<open>1</open>
+		<description>Exploitant: NAYOOBE</description>
+		<Placemark id="0AEF7EA4F80FDD9265FE">
+			<name>Ligne 29 AFTU</name>
+			<styleUrl>#msn_ylw-pushpin24</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-17.42533046822128,14.7708432427364,0 -17.42533636521682,14.77068525766588,0 -17.42414845995549,14.77058592576947,0 -17.42386868100662,14.77057569924954,0 -17.42317492048315,14.77100602309733,0 -17.42188869814558,14.77171249991473,0 -17.42173123461602,14.77216450317641,0 -17.41962967673725,14.77306458426056,0 -17.41817130835921,14.77368247995768,0 -17.41733866264654,14.77189824811435,0 -17.41613654065667,14.76928280910672,0 -17.41487953723727,14.766566859735,0 -17.41603791441312,14.76584135159815,0 -17.41802514149632,14.76522198279708,0 -17.42143706710887,14.76411464744869,0 -17.42237485853287,14.76386224009581,0 -17.42561052513629,14.76191790515047,0 -17.42746734932521,14.75884918928565,0 -17.42865511809437,14.75694280212798,0 -17.42887742034428,14.75692196359336,0 -17.42907816448592,14.756681378319,0 -17.4290905262144,14.75654195575783,0 -17.43050178017697,14.75573326024789,0 -17.43436573482158,14.75334712689928,0 -17.43554083968081,14.75258055452893,0 -17.43708104645224,14.75175516743611,0 -17.43839375804699,14.75118137494843,0 -17.44043502956289,14.75052230399129,0 -17.44211309098382,14.74983930840763,0 -17.44353279487008,14.74887025139821,0 -17.44479158941694,14.74767219210632,0 -17.44588564273064,14.74613291689931,0 -17.44653429746149,14.74522844964875,0 -17.44719775182647,14.74462188974529,0 -17.44805098903737,14.74393474170123,0 -17.45000472635556,14.74261421885761,0 -17.45167763314352,14.74134410358225,0 -17.45312097598584,14.7399864649871,0 -17.45438925588587,14.7382928671609,0 -17.45503630577168,14.7373834691455,0 -17.45558007472119,14.73614789475203,0 -17.45603081448055,14.73480581139547,0 -17.45618611254832,14.73401283050479,0 -17.45627781092108,14.73275906854127,0 -17.45658924097827,14.73127396806158,0 -17.45714206800144,14.72889575235447,0 -17.45736365422805,14.72884603735734,0 -17.45750496630244,14.72863558508431,0 -17.45747342725715,14.72845805086543,0 -17.45806194104369,14.72766239297016,0 -17.45972291772449,14.72583647267353,0 -17.46112723233163,14.72431929247075,0 -17.46309096092267,14.72228236943519,0 -17.46330438619557,14.72196826765671,0 -17.46344672451324,14.7219205123922,0 -17.46352990960115,14.72176216511442,0 -17.46399464543837,14.72114501984738,0 -17.46539471125778,14.71957986659953,0 -17.46628167781879,14.71833689502898,0 -17.46650603070284,14.71820628770876,0 -17.46652963533371,14.71802780937124,0 -17.46635107979155,14.71791875896513,0 -17.46631291795599,14.71762607868241,0 -17.466437378079,14.71658939346392,0 -17.4662706801568,14.71547849844854,0 -17.46573833509372,14.71400763513741,0 -17.46421576702736,14.71209534925498,0 -17.46365297938265,14.71140449298672,0 -17.46009183315222,14.70720246147783,0 -17.46097893404544,14.70624605453644,0 -17.46286344962278,14.70408448179608,0 -17.46422104573935,14.70256638647335,0 -17.46712692789539,14.6993153916327,0 -17.46776942513885,14.69922330472064,0 -17.46818793322984,14.69940473733252,0 -17.46843799192185,14.69929624242626,0 -17.46855203311155,14.69906470566087,0 -17.46843574100942,14.69878173713557,0 -17.46814514046242,14.69852513176178,0 -17.46771566520875,14.69797522606945,0 -17.46705947191406,14.69729947058442,0 -17.46621744358608,14.69657814574595,0 -17.46425833216621,14.69493350623319,0 -17.46179005697708,14.69283376340758,0 -17.46178149947884,14.69268010135086,0 -17.46151974554497,14.69253056550845,0 -17.4584694922815,14.69012944952529,0 -17.4578008756523,14.68935812858425,0 -17.45681329135201,14.68779697549169,0 -17.45575966837362,14.68677719595881,0 -17.45377516200439,14.68481183577392,0 -17.45375760125361,14.68453369130257,0 -17.45339917322445,14.68435963691684,0 -17.45142924875874,14.68257940101794,0 -17.44870286201232,14.68009762038511,0 -17.44589544151649,14.67732698829821,0 -17.4458863301164,14.67720410833387,0 -17.44579902208881,14.67714396077951,0 -17.4456098388897,14.67707500126613,0 -17.44354419403808,14.67520992943704,0 -17.44269378881039,14.67578823114544,0 -17.44173818691433,14.67468198196926,0 -17.44100993779751,14.6752665616173,0 -17.44102139464342,14.67569293633,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder id="0602751B700FDD9265FF">
+			<name>TerminusL29</name>
+			<open>1</open>
+			<Placemark id="040942215A0FDD926600">
+				<name>Terminus Petersen</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>-17.44148195245282</longitude>
+					<latitude>14.6742148561695</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08988959708932547</heading>
+					<tilt>20.78134011396105</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>960.3361067786275</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin03</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-17.4410330907661,14.67571940552391,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="09BDB712C90FDD926602">
+				<name>Terminus Cité Nations Unies</name>
+				<LookAt>
+					<longitude>-17.42517111016752</longitude>
+					<latitude>14.77059310086944</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1792753807254724</heading>
+					<tilt>21.43299335214505</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>191.2802832547221</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin13</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-17.42531811528373,14.77085496183245,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
