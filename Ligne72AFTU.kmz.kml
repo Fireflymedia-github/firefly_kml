@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Ligne 70 AFTU.kmz</name>
-	<gx:CascadingStyle kml:id="__managed_style_0824E1C3550FDDBF9CB5">
+	<name>Ligne 72 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_08F87408601035707307">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -14,7 +14,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>ff46123c</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25,30 +25,7 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0539B1A25C0FDDBF9CB4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_187C990D940FDDBF9CB4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_0824E1C3550FDDBF9CB5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin41">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aa00</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<gx:CascadingStyle kml:id="__managed_style_187C990D940FDDBF9CB4">
+	<gx:CascadingStyle kml:id="__managed_style_14954F81091035707306">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -59,7 +36,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>ff46123c</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -70,77 +47,115 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<Style id="sn_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aa00</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin45">
+	<StyleMap id="__managed_style_00C977610C1035707306">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+			<styleUrl>#__managed_style_14954F81091035707306</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin41</styleUrl>
+			<styleUrl>#__managed_style_08F87408601035707307</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Folder id="0044FCDFF10FDDBF03C6">
-		<name>Ligne 70 AFTU</name>
+	<gx:CascadingStyle kml:id="__managed_style_1E32CD679210357185FF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0ACAD3F3F210357185FF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07818BA07F10357185FE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0ACAD3F3F210357185FF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1E32CD679210357185FF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 72 AFTU</name>
 		<open>1</open>
-		<description>Exploitant: SOPALI TRANSPORT</description>
-		<Placemark id="0E05DEB71E0FDDBF1327">
-			<name>Ligne 70 AFTU</name>
-			<styleUrl>#msn_ylw-pushpin45</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-17.2793458242375,14.76888801486221,0 -17.28182435785504,14.76448380380687,0 -17.28205203932988,14.76464254004562,0 -17.28242256796987,14.76493217564234,0 -17.28482792140763,14.76621105247237,0 -17.28483479657688,14.76619838036277,0 -17.28579444773443,14.766753665955,0 -17.28780050370243,14.76781310767874,0 -17.28972307176257,14.76892304334124,0 -17.29116869265496,14.76859557999905,0 -17.29157328378608,14.76994873979745,0 -17.29371935893013,14.77106544372257,0 -17.29434462283184,14.76995268796048,0 -17.29748475483791,14.76455679795241,0 -17.29995258075061,14.76021795232813,0 -17.3009674061495,14.76074826857359,0 -17.30210541275491,14.76159910472502,0 -17.30329603166366,14.76291921459916,0 -17.30457238306466,14.76427819635027,0 -17.30506747258001,14.76472900569695,0 -17.30588005055963,14.765194600294,0 -17.30757639379606,14.76616337096452,0 -17.30952550978304,14.7672309927823,0 -17.31196894413977,14.76857376933885,0 -17.31307404935481,14.76920261550377,0 -17.31440818720875,14.77018822457992,0 -17.3154074296311,14.77132120954366,0 -17.3164402191144,14.77258710465393,0 -17.31687969959402,14.77322825590389,0 -17.31747018595857,14.77235250809043,0 -17.31820985170522,14.77119196331554,0 -17.31867085480478,14.77045795655804,0 -17.31917250856014,14.76931051201491,0 -17.31990722026121,14.76755916813089,0 -17.32058035573967,14.76543290167767,0 -17.32102891404689,14.76403469567379,0 -17.32119487951071,14.76335479670303,0 -17.32143039508216,14.76144709611936,0 -17.32165605931527,14.7599755804334,0 -17.32169813250451,14.75979255226338,0 -17.32162880986796,14.75962205734476,0 -17.3219631574447,14.75827274803569,0 -17.32223657742199,14.75718717169722,0 -17.32255243385478,14.75594551817103,0 -17.32295397039871,14.75490080850915,0 -17.32326344545013,14.7544368353009,0 -17.32344318417411,14.75432105438049,0 -17.32335456854029,14.7540548563145,0 -17.32369838421876,14.75337651100559,0 -17.32427775092836,14.75229265522232,0 -17.32450679472903,14.75118677333386,0 -17.32479433661365,14.74983747272291,0 -17.3251967574021,14.74823200051358,0 -17.32565723214729,14.74790750893759,0 -17.32797352674211,14.74835864027196,0 -17.33116560636904,14.74904880469658,0 -17.33397102582479,14.74965656711357,0 -17.3362706120349,14.75003966386383,0 -17.34131451990557,14.74952278570179,0 -17.34503992163656,14.74906633508161,0 -17.34910787561533,14.74851064500902,0 -17.35213659724826,14.74826272488711,0 -17.35234568228056,14.74832096031515,0 -17.3526066867675,14.74814539060012,0 -17.35586653457425,14.74765177543219,0 -17.35911720561325,14.74721243083884,0 -17.36247164056054,14.74675112956327,0 -17.36494978354351,14.74651396396519,0 -17.36932199785121,14.74646926783608,0 -17.37312027970809,14.74646714244879,0 -17.37428702853445,14.74640224415916,0 -17.37572818527842,14.74616870534027,0 -17.3769116175976,14.74591734513665,0 -17.37733990357873,14.74646480612595,0 -17.37708624785966,14.74771398703347,0 -17.37705708845427,14.7480139845522,0 -17.37685110549333,14.74809559274313,0 -17.37698341711651,14.74837683109826,0 -17.37687772916072,14.74925594033815,0 -17.37744756235811,14.75110123753388,0 -17.37732894781648,14.75133262577331,0 -17.37752484528026,14.75148478635939,0 -17.37830396579212,14.75212121267624,0 -17.37959848958859,14.75463869454642,0 -17.3810378790048,14.757718526736,0 -17.38196609360385,14.75962822799882,0 -17.38366306856093,14.76045877062149,0 -17.38667539690674,14.76218344174274,0 -17.39004269386661,14.76421116316399,0 -17.39175916403179,14.76518995387698,0 -17.39065297393574,14.76686504331938,0 -17.38955464259044,14.76829816281858,0 -17.38943101487937,14.76873949348629,0 -17.3893067399043,14.76964179349608,0 -17.38861778498474,14.76947265797106,0 -17.38789608087681,14.76964998545205,0 -17.38644172472683,14.77150237148102,0 -17.38587363317988,14.77124337347184,0 -17.38485025482199,14.77234685567314,0 -17.38380021670568,14.77385886202114,0 -17.38288548823767,14.77501323413454,0 -17.38194599394132,14.77537553302955,0 -17.38038971209257,14.77564047333693,0 -17.37938665988848,14.77593763577025,0 -17.37829357261979,14.77654856356798,0 -17.3773679118782,14.77677519046856,0 -17.37578797717009,14.77675196909132,0 -17.37374234352536,14.77651524026266,0 -17.37325825256354,14.77953976224301,0 -17.37309406001038,14.78064061233293,0 
-				</coordinates>
-			</LineString>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Placemark id="1.1">
+			<name>Cité des Ensignants</name>
+			<address>Cité des enseignants</address>
+			<styleUrl>#__managed_style_07818BA07F10357185FE</styleUrl>
+			<Point>
+				<coordinates>-17.40483418436699,14.77708795646341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Kounoune</name>
+			<address>Kounoune</address>
+			<styleUrl>#__managed_style_07818BA07F10357185FE</styleUrl>
+			<Point>
+				<coordinates>-17.25365543556882,14.71614093934933,0</coordinates>
+			</Point>
 		</Placemark>
 	</Folder>
-	<Placemark id="0B326F52C20FDDBF9C9C">
-		<name>Terminus Guédiawaye 70</name>
+	<Placemark id="007C14EC0D10356F0C24">
+		<name>Ligne72AFTU</name>
 		<LookAt>
-			<longitude>-17.35985996213515</longitude>
-			<latitude>14.77412596067501</latitude>
-			<altitude>13.38051432472685</altitude>
+			<longitude>-17.35460422278673</longitude>
+			<latitude>14.71666005004143</latitude>
+			<altitude>5.841368601379894</altitude>
 			<heading>0</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
-			<range>9860.020740323234</range>
+			<range>28510.83839908708</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0539B1A25C0FDDBF9CB4</styleUrl>
-		<Point>
-			<coordinates>-17.37309716766947,14.7805965469907,6.925873860768789</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark id="0B1460BDE90FDDC0175A">
-		<name>Terminus Diakhaye 70</name>
-		<LookAt>
-			<longitude>-17.30514955769866</longitude>
-			<latitude>14.76254339672124</latitude>
-			<altitude>6.95280285356469</altitude>
-			<heading>359.9999991404968</heading>
-			<tilt>0</tilt>
-			<gx:fovy>35</gx:fovy>
-			<range>9866.447425073711</range>
-			<altitudeMode>absolute</altitudeMode>
-		</LookAt>
-		<styleUrl>#__managed_style_0539B1A25C0FDDBF9CB4</styleUrl>
-		<Point>
-			<coordinates>-17.27935898960071,14.76881221976259,23.67801843053615</coordinates>
-		</Point>
+		<styleUrl>#__managed_style_00C977610C1035707306</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.40488513070414,14.77695100434943,5.715556386305378 -17.38203645544507,14.76501518778489,7.131904738001571 -17.3765220828634,14.74673943396396,5.287930631590654 -17.34817327134049,14.74851681298826,5.408640033061007 -17.32638611932893,14.74826212037625,5.374970292094186 -17.32454969668791,14.7426770874609,5.394218627721672 -17.32586682929695,14.73023744789759,7.897854490576693 -17.29859537270928,14.72439182528346,20.51503505601046 -17.27100012143732,14.71651812137079,5.955540045421666 -17.25371043843632,14.71600373796782,18.59246484582039 
+			</coordinates>
+		</LineString>
 	</Placemark>
 </Document>
 </kml>
