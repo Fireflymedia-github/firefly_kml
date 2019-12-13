@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 73 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_25FC34521C103458577B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff43403c</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BF7AE4D5B103458577B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff43403c</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B3E750DE9103458577B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BF7AE4D5B103458577B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25FC34521C103458577B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B0731263110345880DF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.56</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff43403c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1DC225706510345880DD">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff43403c</color>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_097B68F47010345880DD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1DC225706510345880DD</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B0731263110345880DF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 73 AFTU</name>
+		<open>1</open>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<Placemark id="1.1">
+			<name>Poste Thiaroye</name>
+			<address>Poste Thiaroye</address>
+			<styleUrl>#dir_startpoint</styleUrl>
+			<Point>
+				<coordinates>-17.3766033,14.7461145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Lac Rose</name>
+			<address>Lake Retba</address>
+			<styleUrl>#dir_endpoint</styleUrl>
+			<Point>
+				<coordinates>-17.2341324,14.8387836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="029979E413103453282D">
+			<name>Ligne 73 AFTU</name>
+			<styleUrl>#__managed_style_097B68F47010345880DD</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark id="07F22ABE4F103457F585">
+		<name>Ligne 73 AFTU</name>
+		<LookAt>
+			<longitude>-17.28355900766121</longitude>
+			<latitude>14.80468547152337</latitude>
+			<altitude>14.78932605786014</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22410.41117907968</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B3E750DE9103458577B</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.37516120065701,14.74914044120591,5.316678899902209 -17.37019265375821,14.75314485271478,5.443060093635815 -17.35323709983194,14.7730543625183,11.96105511734843 -17.33941363390942,14.79261614571637,5.295645460485556 -17.33260031055668,14.80696787997911,19.40386149240323 -17.31587680654996,14.8135753476602,5.959594120752845 -17.2851015987122,14.8283513768435,5.324905639125159 -17.2733244153446,14.83434206197892,5.601140236383648 -17.2502067540696,14.84550578272011,5.457486731759575 -17.23925931637947,14.84790099926729,5.603456428889199 -17.23306484087616,14.84171133651073,5.583128965511834 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

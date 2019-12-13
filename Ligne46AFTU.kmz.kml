@@ -153,7 +153,8 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark id="0009C326D00FDDA964A5">
+	</Folder>
+	<Placemark id="0009C326D00FDDA964A5">
 		<name>Terminus Sandaga</name>
 		<LookAt>
 			<longitude>-17.42662901881558</longitude>
@@ -170,6 +171,5 @@
 			<coordinates>-17.44159688440705,14.66862899841096,21.58452846367836</coordinates>
 		</Point>
 	</Placemark>
-	</Folder>
 </Document>
 </kml>

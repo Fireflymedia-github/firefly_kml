@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 71 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_26EE7AF09910346C85C9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C33F391AD10346C85C9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_046B9E835E10346C85C9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C33F391AD10346C85C9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26EE7AF09910346C85C9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_03C06304D110346CBD21">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.56</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11B14D5D0B10346CBD1F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EE64970C310346CBD1F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11B14D5D0B10346CBD1F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_03C06304D110346CBD21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 71 AFTU</name>
+		<open>1</open>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Placemark id="1.1">
+			<name>Keur Massar</name>
+			<address>Keur Massar</address>
+			<styleUrl>#dir_startpoint</styleUrl>
+			<Point>
+				<coordinates>-17.311941,14.786368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Claudel</name>
+			<address>Cité universitaire Claudel</address>
+			<styleUrl>#dir_endpoint</styleUrl>
+			<Point>
+				<coordinates>-17.473218,14.695693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="082889D7D71034696F8C">
+			<name>Ligne 71 AFTU</name>
+			<styleUrl>#__managed_style_0EE64970C310346CBD1F</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark id="0A955DDEC910346C595F">
+		<name>Ligne 71 AFTU</name>
+		<LookAt>
+			<longitude>-17.3119410013794</longitude>
+			<latitude>14.78636799208538</latitude>
+			<altitude>32.00203653104597</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>54171.67314564809</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046B9E835E10346C85C9</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.46948573148662,14.70424101704365,30.7023056551564 -17.43921242017547,14.73877214798069,30.25255138028515 -17.43219375076589,14.74295540313973,26.25362431324191 -17.41925798565386,14.7455621432108,6.313163280788221 -17.40952832243011,14.74504271373398,3.410387584984544 -17.39979215425728,14.74243408175614,4.087143594769151 -17.37382316734446,14.75186544585619,18.81336525594799 -17.35111431223478,14.75814990492585,31.25742440973261 -17.33761976337912,14.76859321713398,4.298726346829522 -17.32680204732164,14.78218739466459,27.26126743079215 -17.31004967259404,14.79211519326652,31.63149667023191 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

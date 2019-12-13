@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 75 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_06CB1E76FD103464342F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16BFA06E2F103464342E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffbaf8f8</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="__managed_style_0CA5B8D2B3103464342E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16BFA06E2F103464342E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06CB1E76FD103464342F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffbaf8f8</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 75 AFTU</name>
+		<open>1</open>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Placemark id="1.1">
+			<name>Gare Routiére colobane</name>
+			<address>Gare routière de Colobane</address>
+			<styleUrl>#dir_startpoint</styleUrl>
+			<Point>
+				<coordinates>-17.4427315,14.6973444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Terminus Malika</name>
+			<address>Terminus Malika</address>
+			<styleUrl>#dir_endpoint</styleUrl>
+			<Point>
+				<coordinates>-17.3361817,14.7935577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C1CB81102103460E7B9">
+			<name>Ligne 75 AFTU</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark id="05EAC373C710346412A6">
+		<name>LIigne 75 AFTU</name>
+		<LookAt>
+			<longitude>-17.37803465654774</longitude>
+			<latitude>14.77179896907418</latitude>
+			<altitude>5.513780367385836</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>17776.16106872912</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CA5B8D2B3103464342E</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.44260695692035,14.69753714695887,8.655426688263109 -17.44212912372476,14.69892384366394,9.33462794326806 -17.44199837160949,14.70006514206392,7.547177751778998 -17.43999660965775,14.73235843094289,12.79835550109737 -17.43929089525248,14.74041509255535,8.186075661181032 -17.42704532549565,14.75653854519884,11.90383180874628 -17.38680955101671,14.77642681913045,9.515191865410063 -17.3508220099965,14.784481843536,9.87913789159845 -17.33573713374902,14.79477189121047,5.314690279135852 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

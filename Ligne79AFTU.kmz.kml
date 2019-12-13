@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 79 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_16458DB9D5103497305A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b5ba1</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_043D20BD9B103497305A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b5ba1</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08A3A40C8C1034973059">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_043D20BD9B103497305A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_16458DB9D5103497305A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04E85D01CE1034976431">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.56</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b5ba1</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1401AB0B17103497642E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b5ba1</color>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0796FDFF8E103497642E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1401AB0B17103497642E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04E85D01CE1034976431</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 79 AFTU</name>
+		<open>1</open>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Placemark id="1.1">
+			<name>Cambéréne</name>
+			<address>Cambérène</address>
+			<styleUrl>#dir_startpoint</styleUrl>
+			<Point>
+				<coordinates>-17.4218702,14.7716841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Sangalkam</name>
+			<address>Sangalkam</address>
+			<styleUrl>#dir_endpoint</styleUrl>
+			<Point>
+				<coordinates>-17.2260129,14.778973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0241A471DB103494FCCE">
+			<name>Ligne 79 AFTU</name>
+			<styleUrl>#__managed_style_0796FDFF8E103497642E</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark id="076521A73F103496B71D">
+		<name>Ligne 79 AFTU</name>
+		<LookAt>
+			<longitude>-17.36757402747665</longitude>
+			<latitude>14.76296599388412</latitude>
+			<altitude>31.65390771972262</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>47318.91217567027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08A3A40C8C1034973059</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.42071210206847,14.7766614103959,-0.8032067051940261 -17.36969836997078,14.78715737488512,25.42772950815623 -17.34373510352546,14.79628227106119,30.2840105478105 -17.30880468044509,14.78669187998688,31.75105166626716 -17.25497156340224,14.78348117145271,30.80194151192801 -17.22473925683456,14.78255386034151,32.23511576665141 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
