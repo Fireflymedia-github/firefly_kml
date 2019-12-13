@@ -2,7 +2,84 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Ligne 82 AFTU.kmz</name>
-	<gx:CascadingStyle kml:id="__managed_style_06D6CB840C10348F132D">
+	<gx:CascadingStyle kml:id="__managed_style_135F79933B10359DC2E1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6ae391</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09AC1E96AC10359DC2E1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_135F79933B10359DC2E1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09532EDDFF10359DC2E2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_20F13A060610348F7EE5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.56</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2efa58</color>
+				<width>1.5</width>
+			</LineStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0295A51A0510348F7EE5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_145D0D2AE610348F7EE5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20F13A060610348F7EE5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2FDECE37CA10359DEF58">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_09532EDDFF10359DC2E2">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -25,11 +102,10 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_20F13A060610348F7EE5">
+	<gx:CascadingStyle kml:id="__managed_style_196F96587110359DEF58">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
-				<scale>1.56</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 				</Icon>
@@ -37,8 +113,6 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2efa58</color>
-				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
 			</PolyStyle>
@@ -46,16 +120,6 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_06478633A210348F132C">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_147505E13810348F132C</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_06D6CB840C10348F132D</styleUrl>
-		</Pair>
-	</StyleMap>
 	<gx:CascadingStyle kml:id="__managed_style_145D0D2AE610348F7EE5">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
 		<Style>
@@ -65,47 +129,19 @@
 					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 				</Icon>
 			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
 			<LineStyle>
 				<color>ff2efa58</color>
 			</LineStyle>
-			<PolyStyle>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_147505E13810348F132C">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff6ae391</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<displayMode>hide</displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0295A51A0510348F7EE5">
+	<StyleMap id="__managed_style_072A1095A310359DEF58">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_145D0D2AE610348F7EE5</styleUrl>
+			<styleUrl>#__managed_style_196F96587110359DEF58</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_20F13A060610348F7EE5</styleUrl>
+			<styleUrl>#__managed_style_2FDECE37CA10359DEF58</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder id="results">
@@ -127,17 +163,17 @@
 		<Placemark id="1.1">
 			<name>Comico</name>
 			<address>Mosquée Ouakam Cité Comico</address>
-			<styleUrl>#dir_startpoint</styleUrl>
+			<styleUrl>#__managed_style_072A1095A310359DEF58</styleUrl>
 			<Point>
-				<coordinates>-17.4824723,14.7286426,0</coordinates>
+				<coordinates>-17.48176333917905,14.73061933059367,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1.2">
 			<name>Lat Dior</name>
 			<address>AGENCE SENEGALAISE D&apos;ELECTRIFICATION RURALE (ASER), Ex Camp Lat Dior</address>
-			<styleUrl>#dir_endpoint</styleUrl>
+			<styleUrl>#__managed_style_072A1095A310359DEF58</styleUrl>
 			<Point>
-				<coordinates>-17.4405632,14.6688528,0</coordinates>
+				<coordinates>-17.4397856669317,14.67097945122547,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="03A33C69E510348C720F">
@@ -162,10 +198,10 @@
 			<range>18276.50499172742</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_06478633A210348F132C</styleUrl>
+		<styleUrl>#__managed_style_09AC1E96AC10359DC2E1</styleUrl>
 		<LineString>
 			<coordinates>
-				-17.4398489068204,14.67080682367696,22.59097863323658 -17.44803901785425,14.67978404836519,6.017802761672106 -17.45607363418809,14.68720428675052,5.547869615261969 -17.46283595577689,14.6941052915127,18.61898770385807 -17.46739892603753,14.69816819617294,23.04259553321458 -17.47031829612454,14.70611254840244,38.72602007406879 -17.4719592144459,14.71334244066904,35.77152929320516 -17.47214203355004,14.71775366171758,30.49029698500018 -17.47104760398642,14.72357141675898,35.23762308102073 -17.47305398550159,14.72816069589844,31.51800494918445 -17.48181267528404,14.73046085431338,25.39974949295041 
+				-17.4398489068204,14.67080682367696,22.59097863323658 -17.44803901785425,14.67978404836519,6.017802761672106 -17.45607363418809,14.68720428675052,5.547869615261969 -17.46283595577689,14.6941052915127,18.61898770385807 -17.46739892603753,14.69816819617294,23.04259553321458 -17.47031829612454,14.70611254840244,38.72602007406879 -17.4719592144459,14.71334244066904,35.77152929320516 -17.47214203355004,14.71775366171758,30.49029698500019 -17.47104760398642,14.72357141675898,35.23762308102073 -17.47305398550159,14.72816069589844,31.51800494918445 -17.48181267528404,14.73046085431338,25.39974949295041 
 			</coordinates>
 		</LineString>
 	</Placemark>

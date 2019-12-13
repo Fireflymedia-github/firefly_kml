@@ -2,7 +2,116 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Ligne 76 AFTU.kmz</name>
-	<gx:CascadingStyle kml:id="__managed_style_128559B67810348529A7">
+	<gx:CascadingStyle kml:id="__managed_style_1BB49E03D110359EAFE4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff636e8d</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D275EB7D510359EAFE4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BB49E03D110359EAFE4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B8F20D7A910359EAFE4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_04FB2C11B1103485629B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FD22B1821103485629B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00AAF74253103485629E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_00AAF74253103485629E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.56</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff636e8d</color>
+				<width>1.5</width>
+			</LineStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_26E358B60010359EF377">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FD22B1821103485629B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff636e8d</color>
+			</LineStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10D20B07B310359EF377">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B8F20D7A910359EAFE4">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -25,87 +134,14 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0CA2F4B09F10348529A7">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff636e8d</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<displayMode>hide</displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0B48042BB510348529A6">
+	<StyleMap id="__managed_style_033F535B4010359EF377">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_0CA2F4B09F10348529A7</styleUrl>
+			<styleUrl>#__managed_style_10D20B07B310359EF377</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_128559B67810348529A7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_1FD22B1821103485629B">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff636e8d</color>
-			</LineStyle>
-			<PolyStyle>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_00AAF74253103485629E">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<scale>1.56</scale>
-				<Icon>
-					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff636e8d</color>
-				<width>1.5</width>
-			</LineStyle>
-			<PolyStyle>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_04FB2C11B1103485629B">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1FD22B1821103485629B</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_00AAF74253103485629E</styleUrl>
+			<styleUrl>#__managed_style_26E358B60010359EF377</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder id="results">
@@ -127,17 +163,17 @@
 		<Placemark id="1.1">
 			<name>Sipres</name>
 			<address>SIPRES</address>
-			<styleUrl>#dir_startpoint</styleUrl>
+			<styleUrl>#__managed_style_033F535B4010359EF377</styleUrl>
 			<Point>
-				<coordinates>-17.469522,14.6937248,0</coordinates>
+				<coordinates>-17.46664444549792,14.69726303901301,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1.2">
 			<name>Station Keur Massar</name>
 			<address>Station Total Keur Massar</address>
-			<styleUrl>#dir_endpoint</styleUrl>
+			<styleUrl>#__managed_style_033F535B4010359EF377</styleUrl>
 			<Point>
-				<coordinates>-17.311941,14.786368,0</coordinates>
+				<coordinates>-17.30619484312968,14.79160337133141,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="0E61E475461034833B1F">
@@ -162,10 +198,10 @@
 			<range>33782.38126480021</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0B48042BB510348529A6</styleUrl>
+		<styleUrl>#__managed_style_0D275EB7D510359EAFE4</styleUrl>
 		<LineString>
 			<coordinates>
-				-17.4667261538897,14.69708427349997,21.47123189291616 -17.4516146272521,14.72086999977665,34.02657509716528 -17.43516152626896,14.7365255449799,30.24501690632922 -17.40154751061739,14.75860376522072,-0.3683577543423033 -17.35510369084811,14.76080659141973,31.41158986811456 -17.34344434878904,14.76536410663642,31.97091129410437 -17.32721550908357,14.7764957294677,13.59675242720043 -17.30631380672591,14.79130864899592,31.40897718086583 
+				-17.4667261538897,14.69708427349997,21.47123189291616 -17.4516146272521,14.72086999977665,34.02657509716528 -17.43516152626896,14.7365255449799,30.24501690632922 -17.40154751061739,14.75860376522072,-0.3683577543423032 -17.35510369084811,14.76080659141973,31.41158986811456 -17.34344434878904,14.76536410663642,31.97091129410437 -17.32721550908357,14.7764957294677,13.59675242720043 -17.30631380672591,14.79130864899592,31.40897718086583 
 			</coordinates>
 		</LineString>
 	</Placemark>

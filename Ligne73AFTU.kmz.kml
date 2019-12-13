@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Ligne 73 AFTU.kmz</name>
-	<gx:CascadingStyle kml:id="__managed_style_25FC34521C103458577B">
+	<gx:CascadingStyle kml:id="__managed_style_22787125E61035ADD165">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -14,7 +14,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff43403c</color>
+				<color>ff000000</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25,7 +25,7 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1BF7AE4D5B103458577B">
+	<gx:CascadingStyle kml:id="__managed_style_1CDE3AFE2F1035ADD165">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -36,7 +36,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff43403c</color>
+				<color>ff000000</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -47,21 +47,21 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0B3E750DE9103458577B">
+	<StyleMap id="__managed_style_00727C6A801035ADD165">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_1BF7AE4D5B103458577B</styleUrl>
+			<styleUrl>#__managed_style_1CDE3AFE2F1035ADD165</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_25FC34521C103458577B</styleUrl>
+			<styleUrl>#__managed_style_22787125E61035ADD165</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_0B0731263110345880DF">
+	<gx:CascadingStyle kml:id="__managed_style_09C3208B381035A8AA68">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
-				<scale>1.56</scale>
+				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 				</Icon>
@@ -69,7 +69,6 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff43403c</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
@@ -78,11 +77,10 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1DC225706510345880DD">
+	<gx:CascadingStyle kml:id="__managed_style_1BEEBB775E1035A8AA67">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
-				<scale>1.3</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 				</Icon>
@@ -90,7 +88,6 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff43403c</color>
 			</LineStyle>
 			<PolyStyle>
 			</PolyStyle>
@@ -98,14 +95,14 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_097B68F47010345880DD">
+	<StyleMap id="__managed_style_02C3D934B01035A8AA67">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_1DC225706510345880DD</styleUrl>
+			<styleUrl>#__managed_style_1BEEBB775E1035A8AA67</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_0B0731263110345880DF</styleUrl>
+			<styleUrl>#__managed_style_09C3208B381035A8AA68</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder id="results">
@@ -126,45 +123,36 @@
 		<Placemark id="1.1">
 			<name>Poste Thiaroye</name>
 			<address>Poste Thiaroye</address>
-			<styleUrl>#dir_startpoint</styleUrl>
+			<styleUrl>#__managed_style_02C3D934B01035A8AA67</styleUrl>
 			<Point>
-				<coordinates>-17.3766033,14.7461145,0</coordinates>
+				<coordinates>-17.37622137555971,14.74753830501689,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1.2">
 			<name>Lac Rose</name>
 			<address>Lake Retba</address>
-			<styleUrl>#dir_endpoint</styleUrl>
+			<styleUrl>#__managed_style_02C3D934B01035A8AA67</styleUrl>
 			<Point>
-				<coordinates>-17.2341324,14.8387836,0</coordinates>
+				<coordinates>-17.2337631659523,14.84006294347161,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="029979E413103453282D">
-			<name>Ligne 73 AFTU</name>
-			<styleUrl>#__managed_style_097B68F47010345880DD</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-				</coordinates>
-			</LineString>
-		</Placemark>
 	</Folder>
-	<Placemark id="07F22ABE4F103457F585">
+	<Placemark id="0F8E2D401F1035ADA7D9">
 		<name>Ligne 73 AFTU</name>
 		<LookAt>
-			<longitude>-17.28355900766121</longitude>
-			<latitude>14.80468547152337</latitude>
-			<altitude>14.78932605786014</altitude>
+			<longitude>-17.29116463383512</longitude>
+			<latitude>14.78846685550378</latitude>
+			<altitude>6.749464427636158</altitude>
 			<heading>0</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
-			<range>22410.41117907968</range>
+			<range>22310.06144489162</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0B3E750DE9103458577B</styleUrl>
+		<styleUrl>#__managed_style_00727C6A801035ADD165</styleUrl>
 		<LineString>
 			<coordinates>
-				-17.37516120065701,14.74914044120591,5.316678899902209 -17.37019265375821,14.75314485271478,5.443060093635815 -17.35323709983194,14.7730543625183,11.96105511734843 -17.33941363390942,14.79261614571637,5.295645460485556 -17.33260031055668,14.80696787997911,19.40386149240323 -17.31587680654996,14.8135753476602,5.959594120752845 -17.2851015987122,14.8283513768435,5.324905639125159 -17.2733244153446,14.83434206197892,5.601140236383648 -17.2502067540696,14.84550578272011,5.457486731759575 -17.23925931637947,14.84790099926729,5.603456428889199 -17.23306484087616,14.84171133651073,5.583128965511834 
+				-17.37630662894159,14.7473657806881,5.288776633772363 -17.37408139381262,14.7594162456798,5.537437359965567 -17.36740526579159,14.76694762862492,5.829292087518169 -17.35872562351586,14.77297278004871,5.897994499719439 -17.34383610594598,14.77768565659288,22.2777215401115 -17.33045503165412,14.78222615422768,5.323440111482438 -17.322885972466,14.78222535418866,5.457412512231352 -17.31152879253391,14.78674446043379,5.59287424208229 -17.29305645106786,14.79427692950437,5.306613198396269 -17.28104334655014,14.79556395689591,17.628235721602 -17.26278820440011,14.80029980464974,7.395027912728094 -17.25566198981803,14.80374324160119,5.562089525156675 -17.25209916643307,14.80912288932064,5.7241893729382 -17.24764391994255,14.81665532424877,5.479116186595507 -17.24118246626787,14.82763224378359,5.32720783227016 -17.23694928118203,14.83258290288675,5.386123249919703 -17.23382804775782,14.83990199094719,5.529715034848801 
 			</coordinates>
 		</LineString>
 	</Placemark>
