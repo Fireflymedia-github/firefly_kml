@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ligne 77 AFTU.kmz</name>
+	<gx:CascadingStyle kml:id="__managed_style_06581883841090A4CFCC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff8b8680</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17C81054371090A4CFCB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff8b8680</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2EBEFE38731090A4FE67">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15CF197B5D1090A4FE67">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C04F1AECA1090A4CFCB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17C81054371090A4CFCB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06581883841090A4CFCC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_01CC5BA55A1090A4FE67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15CF197B5D1090A4FE67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EBEFE38731090A4FE67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Ligne 77 AFTU</name>
+		<open>1</open>
+		<Style id="dir_step">
+			<IconStyle>
+				<Icon>
+					<href>https://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Placemark id="1.1">
+			<name>Terminus Liberté 5</name>
+			<address>Terminus Liberté V</address>
+			<styleUrl>#__managed_style_01CC5BA55A1090A4FE67</styleUrl>
+			<Point>
+				<coordinates>-17.4586283,14.7231756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.2">
+			<name>Rufisque</name>
+			<address>Rufisque</address>
+			<styleUrl>#__managed_style_01CC5BA55A1090A4FE67</styleUrl>
+			<Point>
+				<coordinates>-17.27103954173836,14.71569158563696,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark id="08847DD692108B836A68">
+		<name>Ligne 77 AFTU</name>
+		<LookAt>
+			<longitude>-17.35816971041017</longitude>
+			<latitude>14.73227328937813</latitude>
+			<altitude>5.817586573686821</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25487.42328572553</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C04F1AECA1090A4CFCB</styleUrl>
+		<LineString>
+			<coordinates>
+				-17.27109396279959,14.71553424814133,5.918313152666579 -17.27490903224684,14.71651971355372,5.817018044885924 -17.28024969304801,14.71898108264075,5.758719879357416 -17.28410425558123,14.72046492457899,18.78975405836622 -17.28841186664481,14.7229221386687,14.31924678392903 -17.29174620354728,14.7246478165988,25.14688952445132 -17.29479214588678,14.72784238469487,24.22632326134031 -17.29835091101704,14.73054600627137,25.06399257973297 -17.30241301362008,14.73275804110476,23.946750703575 -17.3057161139427,14.73472416835633,24.208016965545 -17.30900609130372,14.73841118803862,18.24916767414971 -17.31355630953292,14.74357743342055,5.849561632360807 -17.31762328446414,14.74554491600239,5.58961454133952 -17.31965689626547,14.74652859836655,5.526098774806504 -17.32448698283154,14.74751260741045,5.40910837504768 -17.32702916917234,14.74775873704852,5.361787178010684 -17.33058802133088,14.74923411694812,5.326452030899631 -17.33618065803259,14.75046374913208,5.305527450091885 -17.34279032397799,14.74948075278796,5.330169875428769 -17.34939979079557,14.74849760123946,5.445643001121107 -17.3544838412831,14.74776013034878,5.575154521757502 -17.35931358825151,14.74677679565082,5.674683107155703 -17.3649059233454,14.7462851648463,5.484169958583642 -17.37049835952758,14.74628506023548,5.357997344853846 -17.37354880281559,14.74603911859356,5.308168097866208 -17.37812446709604,14.74530138234631,5.267624467159575 -17.3826981794116,14.74456254288821,7.31105745782865 -17.38930883598354,14.74382509005956,5.954151928753955 -17.39591711054652,14.74406964913871,6.980980087733036 -17.39922400933679,14.74308649006947,5.585709893904019 -17.40227457144358,14.74259431330583,5.696902930134506 -17.40608903452526,14.74456049245243,5.562677256394933 -17.4096492353416,14.74578918443784,5.46243859955033 -17.41295495420957,14.74578864338551,5.384347907204486 -17.41727796599634,14.74578786356402,5.314571343986403 -17.42185520720404,14.74504936237718,5.272575422502113 -17.42770403258542,14.74381868522811,5.273203628245698 -17.43202030048903,14.74332477545213,7.762904314562404 -17.43454090324216,14.74233777033912,15.14403093016668 -17.43707852156358,14.74110764154122,16.58178106318556 -17.43911945426625,14.7386499284711,14.08621630983923 -17.45862780104479,14.7231238535512,7.449814024044629 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
