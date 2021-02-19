@@ -4,7 +4,7 @@
     <name>Ligne53AFTU.kmz</name>
     <Style id="icon-1899-DB4436-nodesc-normal">
       <IconStyle>
-        <color>50787878</color>
+        <color>f1787878</color>
         <scale>0.5</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -12,7 +12,7 @@
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
-        <scale>0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -20,7 +20,7 @@
     </Style>
     <Style id="icon-1899-DB4436-nodesc-highlight">
       <IconStyle>
-        <color>50787878</color>
+        <color>f1787878</color>
         <scale>0.5</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -46,7 +46,7 @@
     </StyleMap>
     <Style id="line-1267FF-5000-nodesc-normal">
       <LineStyle>
-        <color>50787878</color>
+        <color>f1787878</color>
         <width>2</width>
       </LineStyle>
       <BalloonStyle>
@@ -55,7 +55,7 @@
     </Style>
     <Style id="line-1267FF-5000-nodesc-highlight">
       <LineStyle>
-        <color>50787878</color>
+        <color>f1787878</color>
         <width>2.5</width>
       </LineStyle>
       <BalloonStyle>

@@ -5,7 +5,7 @@
 	<gx:CascadingStyle kml:id="__managed_style_22307B88CF1035B73E24">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
 					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
 				</Icon>
@@ -14,8 +14,8 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>50F0FF14</color>
-				<width>6</width>
+				<color>f1F0FF14</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -35,8 +35,8 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>50F0FF14</color>
-				<width>4</width>
+				<color>f1F0FF14</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -48,7 +48,7 @@
 	<gx:CascadingStyle kml:id="__managed_style_0B0688F1B61035B73E23">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
 					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
 				</Icon>
@@ -57,8 +57,8 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>50F0FF14</color>
-				<width>6</width>
+				<color>f1F0FF14</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -79,8 +79,8 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>50F0FF14</color>
-				<width>4</width>
+				<color>f1F0FF14</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
