@@ -4,7 +4,7 @@
 	<name>Ligne 34 AFTU.kmz</name>
 	<Style id="s_ylw-pushpin_hl20">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -13,7 +13,7 @@
 	</Style>
 	<Style id="s_ylw-pushpin_hl110">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -32,7 +32,7 @@
 	</StyleMap>
 	<Style id="s_ylw-pushpin011">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -51,20 +51,20 @@
 	</StyleMap>
 	<Style id="sh_ylw-pushpin51">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>50785AB4</color>
-			<width>5</width>
+			<color>f1785AB4</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin7">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -73,15 +73,15 @@
 	</Style>
 	<Style id="sn_ylw-pushpin51">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>50785AB4</color>
-			<width>5</width>
+			<color>f1785AB4</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin27">

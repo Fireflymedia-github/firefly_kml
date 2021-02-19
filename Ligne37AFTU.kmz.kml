@@ -46,18 +46,18 @@
 		<Style>
 			<IconStyle>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>5014785A</color>
-				<width>4</width>
+				<color>f114785A</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>5014785A</color>
+				<color>f114785A</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -76,7 +76,7 @@
 	</StyleMap>
 	<Style id="style20">
 		<LineStyle>
-			<color>5014785A</color>
+			<color>f114785A</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -94,7 +94,7 @@
 	</StyleMap>
 	<Style id="style40">
 		<LineStyle>
-			<color>5014785A</color>
+			<color>f114785A</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -103,17 +103,17 @@
 	<gx:CascadingStyle kml:id="__managed_style_2658A2C9091609DB7E2A">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>6</width>
+				<color>f12dc0fb</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -125,7 +125,7 @@
 	</gx:CascadingStyle>
 	<Style id="style10">
 		<LineStyle>
-			<color>ffff5555</color>
+			<color>f1ff5555</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -133,7 +133,7 @@
 	</Style>
 	<Style id="style30">
 		<LineStyle>
-			<color>ffff5555</color>
+			<color>f1ff5555</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
