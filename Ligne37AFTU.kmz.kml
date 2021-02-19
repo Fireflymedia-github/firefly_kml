@@ -53,11 +53,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>5014785A</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>40ffffff</color>
+				<color>5014785A</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -76,7 +76,7 @@
 	</StyleMap>
 	<Style id="style20">
 		<LineStyle>
-			<color>ffff5555</color>
+			<color>5014785A</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -94,7 +94,7 @@
 	</StyleMap>
 	<Style id="style40">
 		<LineStyle>
-			<color>ffff5555</color>
+			<color>5014785A</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>

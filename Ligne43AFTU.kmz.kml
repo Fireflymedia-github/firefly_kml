@@ -11,7 +11,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff00ff</color>
+			<color>50787878</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
@@ -34,7 +34,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff00ff</color>
+			<color>50787878</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>

@@ -40,7 +40,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00aa00</color>
+			<color>5078AAF0</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
@@ -56,7 +56,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>5078AAF0</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -78,7 +78,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>5078AAF0</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -107,7 +107,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00aa00</color>
+			<color>5078AAF0</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>

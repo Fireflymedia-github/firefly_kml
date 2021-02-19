@@ -13,7 +13,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff007cf5</color>
+				<color>501478F0</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -43,7 +43,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffbaf8f8</color>
+			<color>501478F0</color>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin">
@@ -55,7 +55,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffbaf8f8</color>
+			<color>501478F0</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -100,7 +100,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff007cf5</color>
+				<color>501478F0</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>

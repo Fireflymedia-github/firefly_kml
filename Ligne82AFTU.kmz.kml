@@ -13,7 +13,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff6ae391</color>
+				<color>50FF78F0</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -44,7 +44,7 @@
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ff2efa58</color>
+				<color>50FF78F0</color>
 				<width>1.5</width>
 			</LineStyle>
 		</Style>
@@ -91,7 +91,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff6ae391</color>
+				<color>50FF78F0</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -130,7 +130,7 @@
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ff2efa58</color>
+				<color>50FF78F0</color>
 			</LineStyle>
 		</Style>
 	</gx:CascadingStyle>

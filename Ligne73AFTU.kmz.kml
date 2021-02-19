@@ -14,7 +14,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>5078F078</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -36,7 +36,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>5078F078</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -116,7 +116,7 @@
 			</IconStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
-				<textColor>ff000000</textColor>
+				<textColor>5078F078</textColor>
 				<displayMode>default</displayMode>
 			</BalloonStyle>
 		</Style>

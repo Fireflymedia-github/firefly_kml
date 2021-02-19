@@ -14,7 +14,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>50F0FF14</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35,7 +35,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>50F0FF14</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -57,7 +57,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>50F0FF14</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -79,7 +79,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>50F0FF14</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
