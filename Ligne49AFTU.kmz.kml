@@ -21,7 +21,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<gx:CascadingStyle kml:id="__managed_style_1976859DCE0FDDACE640">
@@ -36,7 +36,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f1F0A014</color>
-				<width>2</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -55,7 +55,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<gx:CascadingStyle kml:id="__managed_style_25EB7B54F20FDDACE640">
@@ -71,7 +71,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f1F0A014</color>
-				<width>2.5</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>

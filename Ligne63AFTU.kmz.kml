@@ -12,7 +12,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f1D27800</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<gx:CascadingStyle kml:id="__managed_style_0961B0DB960FDDBA1425">
@@ -28,7 +28,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f1D27800</color>
-				<width>2.5</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -58,7 +58,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f1D27800</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl220">
@@ -82,7 +82,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f1D27800</color>
-				<width>2</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>

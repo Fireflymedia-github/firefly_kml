@@ -68,7 +68,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f1B45A14</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin46">
@@ -81,7 +81,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f1B45A14</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin24">

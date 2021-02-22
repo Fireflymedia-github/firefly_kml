@@ -47,7 +47,7 @@
     <Style id="line-1267FF-5000-nodesc-normal">
       <LineStyle>
         <color>f178283C</color>
-        <width>2</width>
+        <width>1</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -56,7 +56,7 @@
     <Style id="line-1267FF-5000-nodesc-highlight">
       <LineStyle>
         <color>f1ff6712</color>
-        <width>2.5</width>
+        <width>1</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>

@@ -31,7 +31,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f13C5A14</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl110">
@@ -53,7 +53,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f13C5A14</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin16">

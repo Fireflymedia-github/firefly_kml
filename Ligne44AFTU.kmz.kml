@@ -15,7 +15,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f18278F0</color>
-				<width>2.5</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>f18278F0</color>
@@ -37,7 +37,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f18278F0</color>
-				<width>2</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -67,7 +67,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f18278F0</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin0">
@@ -80,7 +80,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f18278F0</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin22">

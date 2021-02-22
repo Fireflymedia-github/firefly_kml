@@ -5,7 +5,7 @@
 	<gx:CascadingStyle kml:id="__managed_style_28F7D3A6AE0FDDB47F68">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
 					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
 				</Icon>
@@ -15,7 +15,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f178AA00</color>
-				<width>2.5</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -45,7 +45,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f178AA00</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<gx:CascadingStyle kml:id="__managed_style_15CE6C6F390FDDB47F68">
@@ -60,7 +60,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>f178AA00</color>
-				<width>2</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -80,7 +80,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f178AA00</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl2">

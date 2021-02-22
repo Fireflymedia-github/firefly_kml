@@ -21,7 +21,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f14678B4</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="m_ylw-pushpin03">
@@ -36,7 +36,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin6">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -44,7 +44,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f14678B4</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl20">

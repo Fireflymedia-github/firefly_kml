@@ -12,7 +12,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f114B4AA</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin26">
@@ -25,7 +25,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>f114B4AA</color>
-			<width>2.5</width>
+			<width>1</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin28">
