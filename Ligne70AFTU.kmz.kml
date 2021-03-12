@@ -5,17 +5,17 @@
 	<gx:CascadingStyle kml:id="__managed_style_0824E1C3550FDDBF9CB5">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>6</width>
+				<color>f100F014</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -37,30 +37,30 @@
 	</StyleMap>
 	<Style id="sh_ylw-pushpin41">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00aa00</color>
-			<width>5</width>
+			<color>f100F014</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<gx:CascadingStyle kml:id="__managed_style_187C990D940FDDBF9CB4">
 		<Style>
 			<IconStyle>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4</width>
+				<color>f100F014</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -72,15 +72,15 @@
 	</gx:CascadingStyle>
 	<Style id="sn_ylw-pushpin13">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00aa00</color>
-			<width>5</width>
+			<color>f100F014</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin45">

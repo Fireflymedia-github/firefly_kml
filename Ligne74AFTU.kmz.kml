@@ -5,17 +5,17 @@
 	<gx:CascadingStyle kml:id="__managed_style_2DBD0B13711093C2DAA6">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffb12dfb</color>
-				<width>6</width>
+				<color>f114B4F0</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -29,15 +29,15 @@
 		<Style>
 			<IconStyle>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffb12dfb</color>
-				<width>4</width>
+				<color>f114B4F0</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -60,16 +60,16 @@
 	<gx:CascadingStyle kml:id="__managed_style_2C08171C101093C2DAA5">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>f114B4F0</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -84,15 +84,15 @@
 		<Style>
 			<IconStyle>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4</width>
+				<color>f114B4F0</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>

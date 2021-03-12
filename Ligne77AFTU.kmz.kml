@@ -5,17 +5,17 @@
 	<gx:CascadingStyle kml:id="__managed_style_07A03508231093C5F29D">
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff8b8680</color>
-				<width>6</width>
+				<color>f114B4FF</color>
+				<width>2.5</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -29,15 +29,15 @@
 		<Style>
 			<IconStyle>
 				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=2</href>
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff8b8680</color>
-				<width>4</width>
+				<color>f114B4FF</color>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -51,13 +51,13 @@
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
-				<scale>1.2</scale>
+				<scale>0.5</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<width>1.5</width>
+				<width>2</width>
 			</LineStyle>
 		</Style>
 	</gx:CascadingStyle>

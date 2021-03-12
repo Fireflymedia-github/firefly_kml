@@ -4,7 +4,7 @@
 	<name>Ligne 3 AFTU.kmz</name>
 	<Style id="s_ylw-pushpin_hl220">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -23,7 +23,7 @@
 	</StyleMap>
 	<Style id="s_ylw-pushpin_hl20">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -42,33 +42,33 @@
 	</StyleMap>
 	<Style id="sh_ylw-pushpin54">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
-			<width>5</width>
+			<color>f1784600</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin2">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
-			<width>5</width>
+			<color>f1784600</color>
+			<width>2.5</width>
 		</LineStyle>
 	</Style>
 	<Style id="s_ylw-pushpin12">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -77,7 +77,7 @@
 	</Style>
 	<Style id="s_ylw-pushpin7">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
